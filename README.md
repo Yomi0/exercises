@@ -1,1 +1,1 @@
-exercises from the book, starting out with programming logic and design
+exercises from "starting out with programming logic and design"
