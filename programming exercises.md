@@ -1,18 +1,19 @@
-starting out with 
-  programming logic and design
+starting out with programming logic and design
   
-  Programming Exercises
+  ### Programming Exercises
   
 Chapter 1
-  1. Personal Information
+
+Personal Information
   
-  Design a program that displays the following information:
-  Your name
-  Your address, with city, state and ZIP
-  Your telephone number
-  Your college major
+1. Design a program that displays the following information:
+  * Your name
+   Your address, with city, state and ZIP
+  - Your telephone number
+  - Your college major
   
-  2. Sales Prediction
+  
+2. Sales Prediction
   
   A company has determined that its annual profit is typically 23 percent of total sales. Design a program that asks the user to enter the projected amount of total sales, and then displays the profit that will be made from that amount. Hint: Use the value 0.23 to represent 23%. 
   
@@ -52,13 +53,20 @@ Chapter 1
   
   Last month Joe purchased some stock in Acme Software, Inc. 
   Here are the details of the purchase:
-  The number of shares that Joe purchased was 1,000.
-  When Joe purchased the stock, he paid $32.87 per share.
-  Joe paid stockbroker a commission that amounted to 2% of the amount he paid for the stock. 
-  Two weeks later Joe sold the stock. Here are the details of the sale:
-  The number of shares that Joe sold was 1,000.
-  He sold the stock for $33.92 per share. 
-  He paid his stockbroker another commission that amounted to 2% of the amount he received for the stock. 
+  * The number of shares that Joe purchased was 1,000.
+  
+  * When Joe purchased the stock, he paid $32.87 per share.
+  
+  * Joe paid stockbroker a commission that amounted to 2% of the amount he paid for the stock. 
+  
+  * Two weeks later Joe sold the stock. Here are the details of the sale:
+  
+  * The number of shares that Joe sold was 1,000.
+  
+  * He sold the stock for $33.92 per share. 
+  
+  * He paid his stockbroker another commission that amounted to 2% of the amount he received for the stock. 
+  
   Design a program that displays the following information:
   The amount of money Joe paid for the stock
   The amount of commission Joe paid his broker when he brought and sold the stock. The amount that Joe sold the stock for.
